@@ -83,3 +83,8 @@
 ![image-20250713165849861](./assets/image-20250713165849861.png)
 
 RDP协议无法让你自由灵活的转动视角，如果你发现鼠标转不动属于正常现象。
+
+## 参考
+
+1. [远程本地多用户桌面1.3(一种不让电脑跟你抢键鼠的思路)](https://www.bilibili.com/opus/805995851989123075)
+2. [win10 LTSC 2021 开启多用户 RDP 远程登录](https://blog.sena.moe/win10-multiple-RDP/)
